@@ -1,0 +1,15 @@
+C:\Users\hasan\source\repos\C# Delegate Homework\C# Delegate Homework\bin\Debug\net6.0\C# Delegate Homework.exe
+C:\Users\hasan\source\repos\C# Delegate Homework\C# Delegate Homework\bin\Debug\net6.0\C# Delegate Homework.deps.json
+C:\Users\hasan\source\repos\C# Delegate Homework\C# Delegate Homework\bin\Debug\net6.0\C# Delegate Homework.runtimeconfig.json
+C:\Users\hasan\source\repos\C# Delegate Homework\C# Delegate Homework\bin\Debug\net6.0\C# Delegate Homework.dll
+C:\Users\hasan\source\repos\C# Delegate Homework\C# Delegate Homework\bin\Debug\net6.0\C# Delegate Homework.pdb
+C:\Users\hasan\source\repos\C# Delegate Homework\C# Delegate Homework\obj\Debug\net6.0\C# Delegate Homework.csproj.AssemblyReference.cache
+C:\Users\hasan\source\repos\C# Delegate Homework\C# Delegate Homework\obj\Debug\net6.0\C# Delegate Homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasan\source\repos\C# Delegate Homework\C# Delegate Homework\obj\Debug\net6.0\C# Delegate Homework.AssemblyInfoInputs.cache
+C:\Users\hasan\source\repos\C# Delegate Homework\C# Delegate Homework\obj\Debug\net6.0\C# Delegate Homework.AssemblyInfo.cs
+C:\Users\hasan\source\repos\C# Delegate Homework\C# Delegate Homework\obj\Debug\net6.0\C# Delegate Homework.csproj.CoreCompileInputs.cache
+C:\Users\hasan\source\repos\C# Delegate Homework\C# Delegate Homework\obj\Debug\net6.0\C# Delegate Homework.dll
+C:\Users\hasan\source\repos\C# Delegate Homework\C# Delegate Homework\obj\Debug\net6.0\refint\C# Delegate Homework.dll
+C:\Users\hasan\source\repos\C# Delegate Homework\C# Delegate Homework\obj\Debug\net6.0\C# Delegate Homework.pdb
+C:\Users\hasan\source\repos\C# Delegate Homework\C# Delegate Homework\obj\Debug\net6.0\C# Delegate Homework.genruntimeconfig.cache
+C:\Users\hasan\source\repos\C# Delegate Homework\C# Delegate Homework\obj\Debug\net6.0\ref\C# Delegate Homework.dll
